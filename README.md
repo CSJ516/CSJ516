@@ -1,4 +1,4 @@
-Hi there! I'm Sujin, a <b>junior data analyst</b> interested in the <b>financial and social sector</b>. 💰🏡📈
+#### Hi there! I'm Sujin, a junior data analyst interested in the financial and social sector. 💰🏡📈
 
 #### 🔹 Language & Tool
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> 
@@ -16,6 +16,6 @@ Hi there! I'm Sujin, a <b>junior data analyst</b> interested in the <b>financial
 | 2020.01.30 ~ 2020.02.06 | <a href='https://github.com/CSJ516/02_Stock_Prediction_project'>Stock Price Prediction : ML/DL을 활용한 주가 예측</a> | Python |
 
 #### 🔹 Etc..
-Public Big-Data Youth Internship, Big-Data Education(6 months), <a href='https://github.com/CSJ516/Kaggle_Study'>Tave(ML/DL Study)</a>, <a href='https://github.com/CSJ516/SQL_Tableau_Study'>SQL&Tableau Study</a>
+Public Big-Data Youth Internship, Big-Data Education(6 months), <a href='https://github.com/CSJ516/Kaggle_Study'>TAVE(ML/DL Study)</a>, <a href='https://github.com/CSJ516/SQL_Tableau_Study'>SQL&Tableau Study</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSJ516%2F&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

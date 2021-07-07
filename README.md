@@ -1,4 +1,4 @@
-#### Hi there! I'm Sujin, a junior data analyst interested in the financial and social sector. 💰🏡📈
+### Hi there! I'm Sujin, a junior data analyst interested in the financial and social sector. 💰🏡📈
 
 #### 🔹 Contest
 | Date | Contest | Rank | Language & Tool |

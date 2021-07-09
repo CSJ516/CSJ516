@@ -3,6 +3,7 @@
 #### 🔹 Contest
 | Date | Contest | Rank | Language & Tool |
 |:---:|:---:|:---:|:---:|
+| 2021.05.15 ~ 2021.06.26 | Weather Bigdata Contest : 날씨에 따른 친환경 화장품 추천 | 심사 중 🔒 | Python |
 | 2020.04.21 ~ 2020.05.10 | <a href='https://github.com/CSJ516/04_COVID19_Visualization_project'>COVID-19 Visualization : 데이콘 코로나 시각화 경진대회</a> | 2nd Winner | Python |
 
 #### 🔹 Project

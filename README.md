@@ -9,6 +9,7 @@
 #### 🔹 Project
 | Date | Project | Language & Tool | 
 |:---:|:---:|:---:| 
+| 2021.08.02 ~ 2021.08.18 | <a href='https://github.com/CSJ516/Optimal_location_selection'>Optimal_location_selection : 노인 놀이터 최적 입지 선정 </a> | Python, QGIS | 
 | 2021.02.08 ~ 2021.03.07 | <a href='https://github.com/CSJ516/07_Investment_Portfolio_project'>Investment Portfolio Recommendation : 투자성향별 포트폴리오 추천</a> | Python | 
 | 2020.09.30 ~ 2020.10.28 | <a href='https://github.com/CSJ516/06_House_Recommendation_project'>Real Estate Recommendation : 서울시 전월세 부동산 추천</a> | Python, Django, QGIS, SQL | 
 | 2020.01.30 ~ 2020.02.06 | <a href='https://github.com/CSJ516/02_Stock_Prediction_project'>Stock Price Prediction : ML/DL을 활용한 주가 예측</a> | Python |
